@@ -132,7 +132,7 @@ SO THAT my account balance is accurate when I am traveling
 
   ![Fetch](Images/fetch-code.png)
 
-  If done successfully you will see your data cache in your Application tab. At this point you should be able to put your application in offline mode for an offline experience.
+  ## If done successfully you will see your data cache in your Application tab. At this point you should be able to put your application in offline mode for an offline experience.
 
   ![Data Cache](Images/data-cache.png)
 
